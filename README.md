@@ -21,4 +21,3 @@ This project analyzes IBM HR employee attrition data to uncover patterns, trends
 - Matplotlib, Seaborn
 - Jupyter/Google Colab
 
-📂 Repository Structure
